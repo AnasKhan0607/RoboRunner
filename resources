@@ -1,0 +1,18 @@
+Resources I used:
+
+I followed along with the youtube channel KidsCanCode's Platformer playlist. He made a vertical platformer game
+where he jumps up and tries to get a high score. With his tutorial i made a side scrolling platformer where the player
+can shoot towards the mouse cursor at enemies that spawn. the game progressively gets harder the more kills the player gets.
+https://www.youtube.com/watch?v=uWvb3QzA48c&list=PLsk-HSGFjnaG-BwZkuAOcVwWldfCLu1pq
+
+to incorporate the shooting i followed the tutorial
+https://www.youtube.com/watch?v=L2jX0fKJpf4&t=7s
+
+i used the sprites from:
+
+player sprites: https://pzuh.itch.io/the-robot-free-sprite
+
+bot sprites: https://aztrakatze.itch.io/simple-cute-robot?download , https://foozlecc.itch.io/cute-platformer-robot
+
+boss sprite: https://untiedgames.itch.io/floating-skull-enemy?download
+boss bullet: https://www.google.com/search?q=purple+ball+png&sxsrf=ALeKk01MncZ3j8ILwwS4ajdNWLd6Uvb1pg:1614825366590&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiF9OWizZXvAhUQWq0KHWKqAAsQ_AUoAXoECBUQAw&biw=1920&bih=880#imgrc=2-ZJr_tgZt4O9M
