@@ -248,3 +248,4 @@ if __name__ == '__main__':
         g.show_go_screen(g.win)
 
     pygame.quit()
+    # testing argoc bot
